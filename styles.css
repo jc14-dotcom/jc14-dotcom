@@ -116,6 +116,7 @@ nav ul li a:hover, header .navbar ul li a:hover {
     height: 42px;
     bottom: 22vh;
     left: 8%;
+    margin-top: 40px;
 }
 
 .social-icons .Instagram:hover {
