@@ -167,7 +167,7 @@ header {
 
 /* Ensure content doesn't overlap with sticky header */
 section {
-    margin-top: 100px; /* Adjust this based on header height */
+    margin-top: 100px;
 }
 
 /* About Section */
