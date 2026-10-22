@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jhon Chris Bautista 👋
+# Hi, I'm Jhon Chris Bautista
 
 ### 💻 Web Developer & Technology Enthusiast
 
